@@ -1,0 +1,22 @@
+create table Users(
+    user_id int not null auto_increment primary key,
+    user_name varchar(50),
+    user_surname varchar(100),
+    user_fingerprint varchar(200),
+    user_exit_password varchar(50)
+    );
+
+create table UserCode(
+    code_id int not null auto_increment primary key,
+    user_id int,
+    generated_code varchar(4),
+    generate_time datetime,
+    expire_date datetime
+    );
+
+create table UserTime(
+    time_id int not null auto_increment primary key,
+    user_id int,
+    time_in varchar(4),
+    time_out datetime
+    );

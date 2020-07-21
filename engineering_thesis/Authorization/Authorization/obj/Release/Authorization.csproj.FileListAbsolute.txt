@@ -1,0 +1,16 @@
+C:\Users\szymi\Desktop\Authorization\Authorization\bin\Release\Authorization.exe.config
+C:\Users\szymi\Desktop\Authorization\Authorization\bin\Release\Authorization.exe
+C:\Users\szymi\Desktop\Authorization\Authorization\bin\Release\Authorization.pdb
+C:\Users\szymi\Desktop\Authorization\Authorization\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\szymi\Desktop\Authorization\Authorization\bin\Release\Google.Protobuf.dll
+C:\Users\szymi\Desktop\Authorization\Authorization\bin\Release\MySql.Data.dll
+C:\Users\szymi\Desktop\Authorization\Authorization\bin\Release\Google.Protobuf.xml
+C:\Users\szymi\Desktop\Authorization\Authorization\bin\Release\MySql.Data.xml
+C:\Users\szymi\Desktop\Authorization\Authorization\obj\Release\Authorization.Authorization.resources
+C:\Users\szymi\Desktop\Authorization\Authorization\obj\Release\Authorization.Login.resources
+C:\Users\szymi\Desktop\Authorization\Authorization\obj\Release\Authorization.Properties.Resources.resources
+C:\Users\szymi\Desktop\Authorization\Authorization\obj\Release\Authorization.csproj.GenerateResource.cache
+C:\Users\szymi\Desktop\Authorization\Authorization\obj\Release\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\szymi\Desktop\Authorization\Authorization\obj\Release\Authorization.csproj.CopyComplete
+C:\Users\szymi\Desktop\Authorization\Authorization\obj\Release\Authorization.exe
+C:\Users\szymi\Desktop\Authorization\Authorization\obj\Release\Authorization.pdb
